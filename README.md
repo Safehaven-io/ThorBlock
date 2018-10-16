@@ -1,2 +1,4 @@
 # ThorBlock
-Pooling Service on the Vechain Enterprise blockchain
+The first communal funding turnkey solution on the VechainThor Blockchain
+
+## ThorBlock API
