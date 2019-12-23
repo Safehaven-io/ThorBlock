@@ -10,16 +10,18 @@ Vechain Mainnet Smart contracts addresses:
 # Pooling
 
 ```
-  FundsRepositoryFactoryV1: 0xa9e8cee6a793efbd72ed209c7bd9014ba036535364
+    FundsRepositoryFactoryV1: 0xf40afaa6d63f938e49633c2436ce371e4b80c914
 ```
 ```
-  Migrations: 0xa445fe0f573d110ba7d59950060e2cfe8caf0347
-  PoolFactoryV1: 0x970b46143e56e2234b542ed3406d3d42b348592b
-  PoolRepository: 0xe7b523f701403a2a4e8301ac205699c47ace3910
-  Splitter: 0xf6deec7f4ad885a6edd2398eff014533153730b8
-  ThorBlock: 0x4218438d7d60770c8bbb9638b25111ab57ad7735
-  ThorblockPreconditionsV1: 0x205810ea2dd4ab6cf8fee586c22aae47b1df7e73  
+  FundsRepositoryFactoryV1: 0xf40afaa6d63f938e49633c2436ce371e4b80c914
+  Migrations: 0xc013c1fa2ae7e1187809dde6423c7d3615871968
+  PoolFactoryV1: 0x6e482a5a3a8914f9fb14d841875f79291d68f9ba
+  PoolRepository: 0x182e2b642778c33f4f5a22c78f7efc77fc8fd3a0
+  Splitter: 0x2bfbcdf0c7bf62bec72cad6de251b5dbb8eadb22
+  ThorBlock: 0xda6e899056a39c866f37c05f5e09457a7b8ef66e
+  ThorblockPreconditionsV1: 0xc36bc41b72fea5f65fc9c7701f9dd87da2e1e732
 ```
+  
 
 # Fundraising
 
