@@ -10,7 +10,7 @@ Vechain Mainnet Smart contracts addresses:
 # Pooling
 
 ```
-    FundsRepositoryFactoryV1: 0xf40afaa6d63f938e49633c2436ce371e4b80c914
+  FundsRepositoryFactoryV1: 0xf40afaa6d63f938e49633c2436ce371e4b80c914
 ```
 ```
   FundsRepositoryFactoryV1: 0xf40afaa6d63f938e49633c2436ce371e4b80c914
@@ -52,6 +52,6 @@ Vechain Mainnet Smart contracts addresses:
 ```
   
   
-## ThorBlock API
+## ThorBlock Docs
 
-https://thorblock.io/api-docs/
+https://docs.thorblock.io
